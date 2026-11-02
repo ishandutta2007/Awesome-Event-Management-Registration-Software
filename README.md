@@ -128,7 +128,7 @@ Self-hosted, community-driven Event Management, Ticketing, and CFP platforms.
 
 ### ⭐ Open-Source Repositories Ranked by Stars
 
-| 📦 Repository | ⭐ GitHub Stars | 🛠️ Technology Stack | 📜 License | 🎯 Target Workflow |
+| 📦 Repository | ⭐ GitHub_Stars | 🛠️ Technology Stack | 📜 License | 🎯 Target Workflow |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Attendize](https://github.com/Attendize/Attendize)** | <a href="https://github.com/Attendize/Attendize/stargazers"><img src="https://img.shields.io/github/stars/Attendize/Attendize?style=social&color=white" alt="Stars" /></a> | PHP / Laravel / Vue.js | Open Source | Self-hosted ticketing & zero-commission event sales |
 | **[Hi.Events](https://github.com/HiEventsDev/Hi.Events)** | <a href="https://github.com/HiEventsDev/Hi.Events/stargazers"><img src="https://img.shields.io/github/stars/HiEventsDev/Hi.Events?style=social&color=white" alt="Stars" /></a> | PHP / Laravel / React / TypeScript | Open Source | Modern Eventbrite alternative with QR check-in & door apps |
